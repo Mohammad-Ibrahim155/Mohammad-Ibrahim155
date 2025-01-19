@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohammad-Ibrahim155
-- 👀 I’m interested in Machine Learing, Data manupulation, Artifical Intelligence and teaching
+- 👀 I’m interested in Machine Learing, Artifical Intelligence and teaching what I've learned in years
 - 🌱 I’m currently learning Artifical Intelligence & Data Science
 - 📫 How to reach me mohammadibrahimreal1@gmail.com
 
